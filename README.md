@@ -68,7 +68,7 @@ With its focus on performance, security, and user-friendliness, this API represe
 
 - **JSON API Responses** : Returns all requests in a JSON format, ensuring consistent data representation.
 
-- **Customized Exception Handling** : Implements customized exception handling for improved user experience and error messaging.
+- **Customized Exception Handling**: Implements customized exception handling for improved user experience and error messaging.
 
 - **Request Body Validation**: Implements request body data validation to ensure data accuracy and security.
 
