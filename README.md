@@ -84,11 +84,11 @@ With its focus on performance, security, and user-friendliness, this API represe
 
 - **Product Filtering**: Allows customers to view products based on the tag "Customer's Best Choice" and products on discount sale.
 
-- **Order Management System** : Offers a platform for customers to place, view, cancel orders, make payments, and track order status including delivery, pickup, return, and replacement.
+- **Order Management System**: Offers a platform for customers to place, view, cancel orders, make payments, and track order status including delivery, pickup, return, and replacement.
 
-- **Payment Method Management** : Allows administrators to add, revoke, and manage available payment methods.
+- **Payment Method Management**: Allows administrators to add, revoke, and manage available payment methods.
 
-- **Sales and Revenue Reporting** : Enables generation and viewing of sales and revenue reports including top-selling and least-selling products, highest-sold products by rating and price, and sales made in different time periods.
+- **Sales and Revenue Reporting**: Enables generation and viewing of sales and revenue reports including top-selling and least-selling products, highest-sold products by rating and price, and sales made in different time periods.
 
 
 ## Administrator Functionalities
