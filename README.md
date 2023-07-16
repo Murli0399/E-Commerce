@@ -74,7 +74,7 @@ With its focus on performance, security, and user-friendliness, this API represe
 
 - **Token-Based Auth and Authorization**: Enables authentication and authorization through the use of JSON Web Tokens (JWT) with Spring Security.
 
-- **Role-Based Access Control** : Implements role-specific access control to restrict resource access to authorized users.
+- **Role-Based Access Control**: Implements role-specific access control to restrict resource access to authorized users.
 
 - **Security Measures**: Incorporates security measures such as JWT token expiration after 20 minutes and restricted admin registration to maintain system security.
 
