@@ -62,7 +62,7 @@ With its focus on performance, security, and user-friendliness, this API represe
 
 - **Hypermedia Navigation**: Integrates Spring HateOAS for facilitating user navigation through the provision of hypermedia links.
 
-- **Data Retrieval** : Includes functionality for pagination, filtering, sorting, and searching for products, reviews, and feedback.
+- **Data Retrieval**: Includes functionality for pagination, filtering, sorting, and searching for products, reviews, and feedback.
 
 - **Efficient Data Transfer** : Uses optimized transfer objects to enhance performance in both HTTP requests and responses.
 
