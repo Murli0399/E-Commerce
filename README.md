@@ -66,7 +66,7 @@ With its focus on performance, security, and user-friendliness, this API represe
 
 - **Efficient Data Transfer** : Uses optimized transfer objects to enhance performance in both HTTP requests and responses.
 
-- **JSON API Responses** : Returns all requests in a JSON format, ensuring consistent data representation.
+- **JSON API Responses**: Returns all requests in a JSON format, ensuring consistent data representation.
 
 - **Customized Exception Handling**: Implements customized exception handling for improved user experience and error messaging.
 
