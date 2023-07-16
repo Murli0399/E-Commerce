@@ -78,7 +78,7 @@ With its focus on performance, security, and user-friendliness, this API represe
 
 - **Security Measures**: Incorporates security measures such as JWT token expiration after 20 minutes and restricted admin registration to maintain system security.
 
-- **Database Administration** : Provides administration tools for managing the database.
+- **Database Administration**: Provides administration tools for managing the database.
 
 - **Product Categorization**: Implements product categorization for improved browsing experience.
 
