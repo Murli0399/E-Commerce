@@ -3,7 +3,7 @@
 ![Untitled-2](https://user-images.githubusercontent.com/105907169/215356985-1c417023-35f5-41cc-beab-8a235d6d8cce.jpg)
 
 
-## **WEB SERVICE : RESTFUL A.PI**
+## **WEB SERVICE : RESTFUL A.P.I**
 
 RESTful API for e-commerce, engineered utilizing the Spring Boot framework and the Java programming language. This API adheres to the principles of RESTful architecture and is designed with scalability and maintainability at the forefront, allowing for effortless integration with third-party applications.
 
