@@ -70,7 +70,7 @@ With its focus on performance, security, and user-friendliness, this API represe
 
 - **Customized Exception Handling** : Implements customized exception handling for improved user experience and error messaging.
 
-- **Request Body Validation** : Implements request body data validation to ensure data accuracy and security.
+- **Request Body Validation**: Implements request body data validation to ensure data accuracy and security.
 
 - **Token-Based Auth and Authorization** : Enables authentication and authorization through the use of JSON Web Tokens (JWT) with Spring Security.
 
