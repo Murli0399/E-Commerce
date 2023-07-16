@@ -58,7 +58,7 @@ With its focus on performance, security, and user-friendliness, this API represe
 
 - **Image Handling**: Supports image upload and retrieval for customers, products, reviews, and feedback.
 
-- **Data Mapping** : Employs object mapping to enable data exchange between client and server through mapping entities to transfer objects.
+- **Data Mapping**: Employs object mapping to enable data exchange between client and server through mapping entities to transfer objects.
 
 - **Hypermedia Navigation** : Integrates Spring HateOAS for facilitating user navigation through the provision of hypermedia links.
 
