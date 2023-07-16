@@ -88,7 +88,7 @@ With its focus on performance, security, and user-friendliness, this API represe
 
 - **Payment Method Management** : Allows administrators to add, revoke, and manage available payment methods.
 
-- **Sales and Revenue Reporting** : Enables generation and viewing of sales and revenue reports including top-selling and least-selling products, highest sold products by rating and price, and sales made in different time periods.
+- **Sales and Revenue Reporting** : Enables generation and viewing of sales and revenue reports including top-selling and least-selling products, highest-sold products by rating and price, and sales made in different time periods.
 
 
 ## Administrator Functionalities
