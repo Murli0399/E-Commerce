@@ -60,7 +60,7 @@ With its focus on performance, security, and user-friendliness, this API represe
 
 - **Data Mapping**: Employs object mapping to enable data exchange between client and server through mapping entities to transfer objects.
 
-- **Hypermedia Navigation** : Integrates Spring HateOAS for facilitating user navigation through the provision of hypermedia links.
+- **Hypermedia Navigation**: Integrates Spring HateOAS for facilitating user navigation through the provision of hypermedia links.
 
 - **Data Retrieval** : Includes functionality for pagination, filtering, sorting, and searching for products, reviews, and feedback.
 
