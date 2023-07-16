@@ -76,7 +76,7 @@ With its focus on performance, security, and user-friendliness, this API represe
 
 - **Role-Based Access Control** : Implements role-specific access control to restrict resource access to authorized users.
 
-- **Security Measures** : Incorporates security measures such as JWT token expiration after 20 minutes and restricted admin registration to maintain system security.
+- **Security Measures**: Incorporates security measures such as JWT token expiration after 20 minutes and restricted admin registration to maintain system security.
 
 - **Database Administration** : Provides administration tools for managing the database.
 
