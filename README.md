@@ -64,7 +64,7 @@ With its focus on performance, security, and user-friendliness, this API represe
 
 - **Data Retrieval**: Includes functionality for pagination, filtering, sorting, and searching for products, reviews, and feedback.
 
-- **Efficient Data Transfer** : Uses optimized transfer objects to enhance performance in both HTTP requests and responses.
+- **Efficient Data Transfer**: Uses optimized transfer objects to enhance performance in both HTTP requests and responses.
 
 - **JSON API Responses**: Returns all requests in a JSON format, ensuring consistent data representation.
 
