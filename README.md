@@ -51,12 +51,12 @@ With its focus on performance, security, and user-friendliness, this API represe
 
 ## Features
 
-- **RESTful API Design** : Adheres to REST architectural principles, providing a set of CRUD endpoints accessible via standard HTTP methods (GET, POST, PUT, DELETE).
-- **Modular Architecture** : Designed with well-defined modules, facilitating clear separation of concerns for easier maintenance and scalability.
+- **RESTful API Design**: Adheres to REST architectural principles, providing a set of CRUD endpoints accessible via standard HTTP methods (GET, POST, PUT, DELETE).
+- **Modular Architecture**: Designed with well-defined modules, facilitating clear separation of concerns for easier maintenance and scalability.
 
-- **Human-Readable URIs** : Uses user-friendly URIs for improved usability.
+- **Human-Readable URIs**: Uses user-friendly URIs for improved usability.
 
-- **Image Handling** : Supports image upload and retrieval for customers, products, reviews, and feedback.
+- **Image Handling**: Supports image upload and retrieval for customers, products, reviews, and feedback.
 
 - **Data Mapping** : Employs object mapping to enable data exchange between client and server through mapping entities to transfer objects.
 
