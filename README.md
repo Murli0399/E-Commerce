@@ -82,7 +82,7 @@ With its focus on performance, security, and user-friendliness, this API represe
 
 - **Product Categorization**: Implements product categorization for improved browsing experience.
 
-- **Product Filtering** : Allows customers to view products based on the tag "Customer's Best Choice" and products on discount sale.
+- **Product Filtering**: Allows customers to view products based on the tag "Customer's Best Choice" and products on discount sale.
 
 - **Order Management System** : Offers a platform for customers to place, view, cancel orders, make payments, and track order status including delivery, pickup, return, and replacement.
 
