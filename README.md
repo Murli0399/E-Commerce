@@ -80,7 +80,7 @@ With its focus on performance, security, and user-friendliness, this API represe
 
 - **Database Administration** : Provides administration tools for managing the database.
 
-- **Product Categorization** : Implements product categorization for improved browsing experience.
+- **Product Categorization**: Implements product categorization for improved browsing experience.
 
 - **Product Filtering** : Allows customers to view products based on the tag "Customer's Best Choice" and products on discount sale.
 
