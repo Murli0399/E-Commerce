@@ -5,7 +5,7 @@
 
 ## **WEB SERVICE : RESTFUL A.P.I**
 
-RESTful API for e-commerce, engineered utilizing the Spring Boot framework and the Java programming language. This API adheres to the principles of RESTful architecture and is designed with scalability and maintainability at the forefront, allowing for effortless integration with third-party applications.
+RESTful API for e-commerce engineered utilizing the Spring Boot framework and the Java programming language. This API adheres to the principles of RESTful architecture and is designed with scalability and maintainability at the forefront, allowing for effortless integration with third-party applications.
 
 A salient feature of this API is its support for image management, which encompasses uploading and serving for customer, product, review, and feedback entities, as well as the ability to delete images from the database using HTTP methods, enabling optimal space management on both the server and client side.
 
