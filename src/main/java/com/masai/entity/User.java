@@ -1,5 +1,9 @@
 package com.masai.entity;
 
+import com.fasterxml.jackson.annotation.JsonProperty;
+
+import com.fasterxml.jackson.annotation.JsonProperty;
+
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
@@ -10,31 +14,43 @@ import jakarta.persistence.Id;
 public class User {
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
-	private Integer id;
+	private int id;
+	private String name;
 
 	@Column(unique = true)
 	private String username;
+	@JsonProperty(access = JsonProperty.Access.WRITE_ONLY)
 	private String password;
 	private String email;
+
+	private String role;
 
 	public User() {
 		super();
 	}
 
-	public User(Integer id, String username, String password, String email) {
+	public User(String name, String username, String password, String email) {
 		super();
-		this.id = id;
+		this.name = name;
 		this.username = username;
 		this.password = password;
 		this.email = email;
 	}
 
-	public Integer getId() {
+	public int getId() {
 		return id;
 	}
 
-	public void setId(Integer id) {
+	public void setId(int id) {
 		this.id = id;
+	}
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
 	}
 
 	public String getUsername() {
@@ -59,6 +75,20 @@ public class User {
 
 	public void setEmail(String email) {
 		this.email = email;
+	}
+
+	public String getRole() {
+		return role;
+	}
+
+	public void setRole(String role) {
+		this.role = role;
+	}
+
+	@Override
+	public String toString() {
+		return "Usersd [id=" + id + ", name=" + name + ", username=" + username + ", password=" + password + ", email="
+				+ email + ", role=" + role + "]";
 	}
 
 }

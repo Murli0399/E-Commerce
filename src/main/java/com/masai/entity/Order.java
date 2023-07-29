@@ -1,33 +1,31 @@
 package com.masai.entity;
 
+import jakarta.persistence.CascadeType;
 import jakarta.persistence.Entity;
+import jakarta.persistence.FetchType;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
-import jakarta.persistence.ManyToOne;
+import jakarta.persistence.JoinColumn;
+import jakarta.persistence.OneToOne;
 
 @Entity
 public class Order {
 	@Id
-	@GeneratedValue(strategy = GenerationType.IDENTITY)
-	private Integer id;
+	@GeneratedValue(strategy = GenerationType.AUTO)
+	private int oid;
+	private Boolean active;
 
-	@ManyToOne
+	@OneToOne(cascade = CascadeType.ALL, fetch = FetchType.EAGER)
+	@JoinColumn(name = "cId")
+	private Cart card;
+
+	@OneToOne(cascade = CascadeType.ALL, fetch = FetchType.EAGER)
+	@JoinColumn(name = "id")
 	private User user;
-
-	private String orderNumber;
-	private double totalAmount;
 
 	public Order() {
 		super();
-	}
-
-	public Integer getId() {
-		return id;
-	}
-
-	public void setId(Integer id) {
-		this.id = id;
 	}
 
 	public User getUser() {
@@ -38,20 +36,27 @@ public class Order {
 		this.user = user;
 	}
 
-	public String getOrderNumber() {
-		return orderNumber;
+	public int getOid() {
+		return oid;
 	}
 
-	public void setOrderNumber(String orderNumber) {
-		this.orderNumber = orderNumber;
+	public void setOid(int oid) {
+		this.oid = oid;
 	}
 
-	public double getTotalAmount() {
-		return totalAmount;
+	public Boolean getActive() {
+		return active;
 	}
 
-	public void setTotalAmount(double totalAmount) {
-		this.totalAmount = totalAmount;
+	public void setActive(Boolean active) {
+		this.active = active;
 	}
 
+	public Cart getCard() {
+		return card;
+	}
+
+	public void setCard(Cart card) {
+		this.card = card;
+	}
 }
