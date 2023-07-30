@@ -339,64 +339,13 @@ Check Out the Below Given Link For Documentation with all API Requests, Response
 ```bash
 http://localhost:8088
 ```
-## Login Logout API Reference
-
-![image](https://user-images.githubusercontent.com/105907169/216280259-cfc18b64-2684-4488-9426-0ed409f4ed8e.png)
 
 
-## Admin API Reference
-
-![image](https://user-images.githubusercontent.com/105907169/215348530-2fed42cd-f777-4c40-ba2b-c9e5e8d043ff.png)
-
-
-## Customer API Reference
-![image](https://user-images.githubusercontent.com/105907169/216280704-67a52dfa-a799-47d1-bd34-b15e87b90182.png)
-
-
-## Address API Reference
-
-![image](https://user-images.githubusercontent.com/105907169/215348507-699558b2-1a1b-4025-916e-7d76bbb5041e.png)
-
-
-
-
-## Category API Reference
-
-![image](https://user-images.githubusercontent.com/105907169/215348610-d384368e-7fc9-4539-87f1-86acff39a8c2.png)
-
-
-## Product API Reference
-
-![image](https://user-images.githubusercontent.com/105907169/216281712-6c8475a5-17a4-4899-9b43-81c5e5b64e5d.png)
-
-
-
-
-
-## Cart API Reference
-
-![image](https://user-images.githubusercontent.com/105907169/215348572-a4311467-1a34-4a17-8a6c-b1141504e8f0.png)
-
-
-## Order API Reference
-![image](https://user-images.githubusercontent.com/105907169/216281277-5406b5c9-dde0-4275-8b9d-332a64e72e2f.png)
-
-
-## Feedback API Reference
-![image](https://user-images.githubusercontent.com/105907169/215348713-d8c07c9c-1a50-4d98-a824-beb235bad975.png)
-
-
-## Review API Reference
-![image](https://user-images.githubusercontent.com/105907169/215348691-9ddb1e82-4111-4bbc-a9ba-55d80ee0a445.png)
-
-
-## Payment API Reference
-![image](https://user-images.githubusercontent.com/105907169/215348759-b2ce4903-ff57-454d-85d6-8d3db0173746.png)
 
 
 ## Contributions
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **Greatly Appreciated**.
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **Greatly Appreciated**.
 
 If you have any ideas on how to improve this web service, please feel free to fork the repository and submit a pull request. Your contributions, no matter how big or small, are greatly appreciated and will help to make this repository even better.
 
