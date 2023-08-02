@@ -337,6 +337,9 @@ We encourage you to give the repository a star and we thank you for your interes
 Your support is greatly appreciated.
 
 ## 🔗 Contact Me
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://murli0399.github.io/)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murli-khaire/)
 
 
 ## Authors
@@ -346,4 +349,3 @@ Your support is greatly appreciated.
 ## Acknowledgements
 
 - [Masai School](https://www.masaischool.com/)
- 
