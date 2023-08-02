@@ -246,21 +246,12 @@ https://dev.mysql.com/downloads/mysql/
 Clone the Repository
 
 ```bash
-https://github.com/TejasMedade/E-Commmerce-Application
+https://github.com/Murli0399/E-Commerce.git
 ```
 
 Open MySQL Server
 ```bash
 Create a New Database in SQL: "ecommerce" 
-```
-
-System Generated Admin For Your Database
-
-```bash
-{
-    "username": "9307710594",
-    "password": "Tejas@1998"
-}
 ```
 
 
@@ -290,7 +281,7 @@ server.port=8088
 Go to **com.masai package > ECommerceApplication.java**
 
 ```bash
-Run as Spring Boot App !
+Run as Spring Boot App!
 ```
 Open the following URL for Swagger-UI 
 ```bash
@@ -306,7 +297,7 @@ http://localhost:8088/swagger-ui/
 
 - The roles have already been established within the database. Ensure that the appropriate requests are executed for both the Admin and User roles.
 
-- It's important to note that an Admin is also considered as a User. Only Users with Admin privileges have the ability to create additional Admins within the database.
+- It's important to note that an Admin is also considered a User. Only users with Admin privileges have the ability to create additional Admins within the database.
 
 - The expiration time limit for JWT tokens is 20 minutes. Subsequently, a new login session is required after the 20-minute duration.
 - An additional 2% discount will be applied to the sale price of a product when it is added to a discount sale.
@@ -314,7 +305,7 @@ http://localhost:8088/swagger-ui/
 - **Order cancellation policy**
    - Order cancellation is only possible if the order has not yet been marked as delivered.
 - **Return policy**
-   - Orders that have been marked as delivered by the admin cannot be cancelled and must be returned.
+   - Orders that have been marked as delivered by the admin cannot be canceled and must be returned.
 - **Refund and replacement policy**
    - Refunds and replacements for orders can only be processed once the return order and its status have been marked as picked up by the admin.
 
@@ -323,12 +314,6 @@ http://localhost:8088/swagger-ui/
 
 ![ER_Diagram](https://user-images.githubusercontent.com/105907169/215553881-33438a04-b956-4547-87c8-d45a14365b3e.jpg)
 
-
-## PostMan Documentation
-
-Check Out the Below Given Link For Documentation with all API Requests, Responses, Headers & Request Body. 
-
-**POSTMAN DOCUMENTATION** : https://documenter.getpostman.com/view/24342917/2s935kQSBZ
 
 
 ## Base Url
@@ -352,15 +337,11 @@ We encourage you to give the repository a star and we thank you for your interes
 Your support is greatly appreciated.
 
 ## 🔗 Contact Me
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://tejasmedade.github.io/)
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/TejasMedade)
-
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TejasMedade)
 
 ## Authors
 
-- [Tejas Vilas Medade](https://github.com/tejasmedade)
+- [Murli Khaire](https://github.com/Murli0399)
 
 ## Acknowledgements
 
