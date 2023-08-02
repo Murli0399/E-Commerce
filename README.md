@@ -251,7 +251,7 @@ https://github.com/TejasMedade/E-Commmerce-Application
 
 Open MySQL Server
 ```bash
-Create a New Database in SQL: "e_commerce" 
+Create a New Database in SQL: "ecommerce" 
 ```
 
 System Generated Admin For Your Database
