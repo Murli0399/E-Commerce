@@ -35,7 +35,6 @@ With its focus on performance, security, and user-friendliness, this API represe
 
 - JWT AUTHENTICATION
 - SPRING SECURITY
-- SPRING HATEOAS
 - SPRING DATA JPA
 - SPRING BOOT DEVTOOLS
 - SPRING WEB
@@ -43,9 +42,6 @@ With its focus on performance, security, and user-friendliness, this API represe
 - MYSQL DRIVER
 - VALIDATION
 - LOMBOK
-- MODEL MAPPER
-- LOGGER
-
 
 
 
